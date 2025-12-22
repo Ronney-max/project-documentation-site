@@ -1,1 +1,1 @@
-added a feature branch from develop
+added a feature branch from develop branch and merged them afer a pull request.
